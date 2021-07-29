@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\bin\Debug\netcoreapp2.1\Service.Data.deps.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\bin\Debug\netcoreapp2.1\Service.Data.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\bin\Debug\netcoreapp2.1\Service.Data.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\obj\Debug\netcoreapp2.1\Service.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\obj\Debug\netcoreapp2.1\Service.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\obj\Debug\netcoreapp2.1\Service.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\obj\Debug\netcoreapp2.1\Service.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\obj\Debug\netcoreapp2.1\Service.Data.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.Data\obj\Debug\netcoreapp2.1\Service.Data.pdb

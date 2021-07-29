@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\bin\Release\netcoreapp2.1\Service.BL.deps.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\bin\Release\netcoreapp2.1\Service.BL.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\bin\Release\netcoreapp2.1\Service.BL.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\obj\Release\netcoreapp2.1\Service.BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\obj\Release\netcoreapp2.1\Service.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\obj\Release\netcoreapp2.1\Service.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\obj\Release\netcoreapp2.1\Service.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\obj\Release\netcoreapp2.1\Service.BL.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.BL\obj\Release\netcoreapp2.1\Service.BL.pdb

@@ -1,0 +1,406 @@
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.json
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.exe
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.deps.json
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.json
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.dev.json
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.pdb
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csprojAssemblyReference.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfoInputs.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfo.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CoreCompileInputs.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.Manifest.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.xml
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExpressAPI.styles.css
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.input.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.output.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorCoreGenerate.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cache
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cs
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CopyComplete
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.dll
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.pdb
+I:\API_ABC_OFFICE\CORE\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.genruntimeconfig.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.exe
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.deps.json
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.json
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.dev.json
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.pdb
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.AssemblyReference.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfoInputs.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfo.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CoreCompileInputs.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.Manifest.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.xml
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExpressAPI.styles.css
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.input.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.output.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorCoreGenerate.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cs
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CopyComplete
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.pdb
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.genruntimeconfig.cache
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Abrar\All Updated Projects\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.exe
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.deps.json
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.json
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.dev.json
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.pdb
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csprojAssemblyReference.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfo.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.xml
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExpressAPI.styles.css
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.input.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.output.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorCoreGenerate.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CopyComplete
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.dll
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.pdb
+C:\Users\User\Documents\Received Files\ExpressAPI [1]\ExpressAPI [1]\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.genruntimeconfig.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.exe
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.deps.json
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.json
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.dev.json
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.pdb
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csprojAssemblyReference.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfoInputs.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfo.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CoreCompileInputs.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.Manifest.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.xml
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExpressAPI.styles.css
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.input.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.output.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorCoreGenerate.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cache
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cs
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CopyComplete
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.dll
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.pdb
+E:\Office_Project\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.pdb
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.exe
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.deps.json
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.json
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.pdb
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.xml
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExpressAPI.styles.css
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.input.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.output.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CopyComplete
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\ExpressAPI\ExpressAPI\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.exe
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.deps.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Service.BL.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\bin\Debug\netcoreapp3.1\Service.BL.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\staticwebassets\ExpressAPI.StaticWebAssets.xml
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExpressAPI.styles.css
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.input.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.TagHelpers.output.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.Views.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.csproj.CopyComplete
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\ExpressAPI\obj\Debug\netcoreapp3.1\ExpressAPI.genruntimeconfig.cache

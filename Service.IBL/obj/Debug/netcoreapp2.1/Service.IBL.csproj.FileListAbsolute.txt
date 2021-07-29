@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\bin\Debug\netcoreapp2.1\Service.IBL.deps.json
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\bin\Debug\netcoreapp2.1\Service.IBL.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\bin\Debug\netcoreapp2.1\Service.IBL.pdb
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\obj\Debug\netcoreapp2.1\Service.IBL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\obj\Debug\netcoreapp2.1\Service.IBL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\obj\Debug\netcoreapp2.1\Service.IBL.AssemblyInfo.cs
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\obj\Debug\netcoreapp2.1\Service.IBL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\obj\Debug\netcoreapp2.1\Service.IBL.dll
+C:\Users\User\Desktop\Service_ELPL\ServiceApp\Service.IBL\obj\Debug\netcoreapp2.1\Service.IBL.pdb
